@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap');
 
+body {
+    background: #0000FF !important;
+}
+
 .app-details-content-container-bottom-comp {
     padding-left: 10px !important;
 }
