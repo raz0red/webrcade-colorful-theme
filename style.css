@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&family=Roboto:wght@300;400;700&display=swap');
 
 .app-details-content-container-bottom-comp {
-    padding-left: 10px !important;
+    padding-left: 1rem !important;
 }
 
 .app-details-content-container-bottom-comp button {
     background: #eee;
-    padding: 4px 0 4px 20px;
+     padding: .5rem 0 .5rem 2rem; 
 }
 
 .app-categories, .app-category, .app-category-flyout {
@@ -23,7 +23,7 @@
 }
 
 .app-details-content-container-buttons button {
-    box-shadow: 0 3px 6px #999;
+    box-shadow: 0 .25rem .5rem #999;
     border-radius: 0;
     text-transform: lowercase;
     font-weight: bold;
@@ -105,13 +105,13 @@ body {
 /* fonts */
 .app-details-content-container-title {
     font-family: 'Roboto';
-    font-size: 48px;
+/*     font-size: 48px; */
 }
 
 .scroll-text {
     font-family: 'Roboto Condensed';
     font-weight: 400;
-    font-size: 16px;
+/*     font-size: 1.5rem; */
     color: #888;
     text-align:justify;
     text-justify:auto;
