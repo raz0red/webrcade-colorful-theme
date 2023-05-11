@@ -98,8 +98,9 @@ body {
     background: white;
 }
 
-
-
+.settings-button {
+    background-color: #888;
+}
 
 /* fonts */
 .app-details-content-container-title {
